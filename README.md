@@ -1,0 +1,3 @@
+Este repositório contém uma coleção de projetos Node.js, cada um projetado para testar endpoints específicos da API Star Wars. Esses testes garantem a precisão e a confiabilidade das respostas da API, cobrindo uma ampla gama de dados, incluindo personagens, filmes, pessoas, planetas, espécies, naves estelares e veículos.
+
+O fluxo de trabalho é automatizado usando GitHub Actions, que aciona execuções de teste mediante pushes para o mainbranch ou pull requests direcionados a ele. Cada conjunto de testes é configurado para usar a versão estável mais recente do Node.js e é executado no Ubuntu Linux. Os testes são escritos usando uma estrutura de teste robusta, garantindo cobertura abrangente dos endpoints da API.
